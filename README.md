@@ -8,10 +8,7 @@ The agent answers policy and operational questions using vector retrieval over t
 
 ## Live Application
 
-- Console: https://parcelpilot-ops-console.vercel.app
-- Proactive Insights: https://parcelpilot-ops-console.vercel.app/insights
-- Health check: https://parcelpilot-ops-console.vercel.app/api/health
-
+https://parcelpilot-ops-console.vercel.app/console
 ---
 
 ## Architecture
