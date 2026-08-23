@@ -2,7 +2,7 @@
 
 ## Scope decision: internal-first
 
-We built the **internal support/operations console** and went deep on both client problems
+I built the **internal support/operations console** and went deep on both client problems
 (proactive issue detection + trust/reliability) rather than splitting effort across a
 customer-facing bot. Rationale: the operations team is where unreliable answers cost the most
 (they compound into customer-facing mistakes — see the misguidance findings below), and every
@@ -29,7 +29,7 @@ fourth, account-scoped role without re-architecture.
 Every card links "Investigate in chat" with a prefilled prompt, closing the loop between
 detection and action.
 
-## What else we would build next (priority order)
+## What else I would build next (priority order)
 
 1. **Feedback capture on every answer** (was this right? → routing to knowledge owners). The
    misguidance audit proves stale answers persist silently; feedback telemetry turns that into
