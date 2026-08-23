@@ -31,7 +31,7 @@ Browser ── SSE stream ──► /api/chat (Vercel AI SDK tool loop, ≤8 ste
         data store + vector index
 ```
 
-Single Next.js app, no external database. The data pack is compiled at build time into `src/data/generated/`.
+
 
 ---
 
@@ -154,9 +154,9 @@ tests/retrieval.test.ts     4 tests — cosine similarity math
 
 ## AI tooling
 
-Development: OpenCode / Antigravity AI was used for scaffolding, module implementation, and test authoring, with human review at each step.
+Development: OpenCode and Antigravity AI was used for scaffolding, module implementation, and test authoring, with human review at each step.
 
-Runtime: Vercel AI SDK + Groq API (qwen3.6-27b) for inference.
+
 
 ---
 
