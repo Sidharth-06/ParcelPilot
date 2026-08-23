@@ -810,13 +810,7 @@ See [`PRODUCT.md`](PRODUCT.md) for:
 
 ---
 
-## Submission
 
-**Live application:**
-https://parcelpilot-ops-console.vercel.app/console
-
-**Repository:**
-https://github.com/<your-username>/parcelpilot-ops-console
 
 **Architecture:** [`ARCHITECTURE.md`](ARCHITECTURE.md)
 
